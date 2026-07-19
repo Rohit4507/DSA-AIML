@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Rohit4507/DSA-AIML/tree/master/0643-maximum-average-subarray-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Rohit4507/DSA-AIML/tree/master/2697-lexicographically-smallest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Rohit4507/DSA-AIML/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
