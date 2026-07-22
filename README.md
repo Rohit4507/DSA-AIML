@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Rohit4507/DSA-AIML/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rohit4507/DSA-AIML/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/2352-equal-row-and-column-pairs) |
@@ -24,11 +25,13 @@
 ## Sorting
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohit4507/DSA-AIML/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Rohit4507/DSA-AIML/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -47,4 +50,8 @@
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/2352-equal-row-and-column-pairs) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
