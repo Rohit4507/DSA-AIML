@@ -32,6 +32,7 @@
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohit4507/DSA-AIML/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/Rohit4507/DSA-AIML/tree/master/2390-removing-stars-from-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Rohit4507/DSA-AIML/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -50,8 +51,13 @@
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Rohit4507/DSA-AIML/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Rohit4507/DSA-AIML/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
