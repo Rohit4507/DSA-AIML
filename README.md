@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohit4507/DSA-AIML/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Rohit4507/DSA-AIML/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
@@ -63,4 +64,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rohit4507/DSA-AIML/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Rohit4507/DSA-AIML/tree/master/2390-removing-stars-from-a-string) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohit4507/DSA-AIML/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
