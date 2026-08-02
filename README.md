@@ -7,6 +7,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Rohit4507/DSA-AIML/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Rohit4507/DSA-AIML/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/Rohit4507/DSA-AIML/tree/master/1207-unique-number-of-occurrences) |
+| [1470-shuffle-the-array](https://github.com/Rohit4507/DSA-AIML/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rohit4507/DSA-AIML/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/2352-equal-row-and-column-pairs) |
