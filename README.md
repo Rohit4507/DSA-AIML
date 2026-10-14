@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Rohit4507/DSA-AIML/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Rohit4507/DSA-AIML/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohit4507/DSA-AIML/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Rohit4507/DSA-AIML/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
