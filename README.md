@@ -99,4 +99,8 @@
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rohit4507/DSA-AIML/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Rohit4507/DSA-AIML/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
