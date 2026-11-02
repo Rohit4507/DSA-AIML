@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohit4507/DSA-AIML/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Rohit4507/DSA-AIML/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/Rohit4507/DSA-AIML/tree/master/1207-unique-number-of-occurrences) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Rohit4507/DSA-AIML/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -29,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -61,6 +64,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -105,4 +109,12 @@
 | [0595-big-countries](https://github.com/Rohit4507/DSA-AIML/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Rohit4507/DSA-AIML/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rohit4507/DSA-AIML/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
