@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rohit4507/DSA-AIML/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Rohit4507/DSA-AIML/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohit4507/DSA-AIML/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Rohit4507/DSA-AIML/tree/master/0735-asteroid-collision) |
@@ -16,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rohit4507/DSA-AIML/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Rohit4507/DSA-AIML/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rohit4507/DSA-AIML/tree/master/1657-determine-if-two-strings-are-close) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rohit4507/DSA-AIML/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Rohit4507/DSA-AIML/tree/master/0073-set-matrix-zeroes) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
