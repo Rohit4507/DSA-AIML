@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rohit4507/DSA-AIML/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/Rohit4507/DSA-AIML/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohit4507/DSA-AIML/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Rohit4507/DSA-AIML/tree/master/0735-asteroid-collision) |
@@ -54,6 +55,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rohit4507/DSA-AIML/tree/master/0048-rotate-image) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rohit4507/DSA-AIML/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -102,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rohit4507/DSA-AIML/tree/master/0048-rotate-image) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rohit4507/DSA-AIML/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Database
 |  |
