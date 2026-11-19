@@ -1,16 +1,15 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
-        flat_arr = [num for row in grid for num in row]
-        nums = flat_arr
+        grid = [val for i in grid for val in i]
         arr1 = []
-        n = len(nums)
+        n = len(grid)
         arr2 = list(range(1, n + 1))
-        nums.sort()
+        grid.sort()
         for i in range(n-1):
-            if nums[i] == nums[i+1]:
-                arr1.append(nums[i])
+            if grid[i] == grid[i+1]:
+                arr1.append(grid[i])
         for num in arr2:
-            if num not in nums:
+            if num not in grid:
                 arr1.append(num)
                 break
 
